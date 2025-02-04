@@ -39,6 +39,7 @@ public class Main {
 ```
 
 #### Getting and Setting Parameters
+> Intergers and menus:
 
 ```java
 public class Main {
@@ -57,9 +58,7 @@ public class Main {
     }
 }
 ```
-
-#### Handling Boolean Parameters
-
+> Booleans
 ```java
 public class Main {
     public static void main(String[] args) {
